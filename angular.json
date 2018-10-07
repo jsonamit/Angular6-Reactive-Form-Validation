@@ -23,9 +23,21 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/style.css",
+              "src/assets/css/icon-font.min.css",
+              "src/assets/css/font-awesome.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/light.js",
+              "src/assets/js/amcharts.js",
+              "src/assets/js/jquery.nicescroll.js",
+              "src/assets/js/menu_jquery.js",
+              "src/assets/js/pie-chart.js",
+              "src/assets/js/scripts.js",
+              "src/assets/js/serial.js"
+            ]
           },
           "configurations": {
             "production": {
